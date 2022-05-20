@@ -9,7 +9,7 @@
 
 ### My Apps
 League of Legends Quiz(ReactNative, Typescript) - https://play.google.com/store/apps/details?id=com.lolquiz <br/>
-DuoMe(Kotlin) - https://play.google.com/store/apps/details?id=com.duome
+DuoMe(Kotlin, Spring) - https://play.google.com/store/apps/details?id=com.duome
 
 <!--
 **EPguy/EPguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
