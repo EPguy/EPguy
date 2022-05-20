@@ -7,8 +7,6 @@
 ### Now Learning ..
 <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=Go&logoColor=white"> <img src="https://img.shields.io/badge/BlockChain-F7931A?style=for-the-badge&logo=Bitcoin&logoColor=white">
 
-### Don't click
-<a href="https://github.com/EPguy?tab=repositories"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=repositories&url=https%3A%2F%2Fgithub.com%2FEPguy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <!--
 **EPguy/EPguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
