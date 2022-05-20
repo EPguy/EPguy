@@ -8,8 +8,8 @@
 <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=Go&logoColor=white"> <img src="https://img.shields.io/badge/BlockChain-F7931A?style=for-the-badge&logo=Bitcoin&logoColor=white">
 
 ### My Apps
-League of Legends Quiz - https://play.google.com/store/apps/details?id=com.lolquiz <br/>
-DuoMe - https://play.google.com/store/apps/details?id=com.duome
+League of Legends Quiz(ReactNative, Typescript) - https://play.google.com/store/apps/details?id=com.lolquiz <br/>
+DuoMe(Kotlin) - https://play.google.com/store/apps/details?id=com.duome
 
 <!--
 **EPguy/EPguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
