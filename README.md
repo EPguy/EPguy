@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"><br/>
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white"> 
 
-### Learning Now..
+### Now Learning ..
 <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=Go&logoColor=white"> <img src="https://img.shields.io/badge/BlockChain-F7931A?style=for-the-badge&logo=Bitcoin&logoColor=white">
 <!--
 **EPguy/EPguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
