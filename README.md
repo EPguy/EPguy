@@ -8,6 +8,8 @@
 League of Legends Quiz(ReactNative, Typescript) - https://play.google.com/store/apps/details?id=com.lolquiz <br/>
 DuoMe(Kotlin, Spring) - https://play.google.com/store/apps/details?id=com.duome
 
+### Contact
+<a href="mailto:epguygithub@gmail.com"><img src="https://img.shields.io/badge/-epguygithub@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <!--
 **EPguy/EPguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
