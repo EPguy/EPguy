@@ -6,13 +6,8 @@
 
 ### 🚩 My Apps
 [League of Legends Quiz](https://play.google.com/store/apps/details?id=com.lolquiz)
-* React-Native
-* Typescript
 
 [DuoMe](https://play.google.com/store/apps/details?id=com.duome)
-* Kotlin
-* Spring
-* Mysql
 
 
 ### ⚔ Skills
