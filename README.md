@@ -5,8 +5,15 @@
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white"> -->
 
 ### 🚩 My Apps
-League of Legends Quiz(ReactNative, Typescript) - https://play.google.com/store/apps/details?id=com.lolquiz <br/>
-DuoMe(Kotlin, Spring) - https://play.google.com/store/apps/details?id=com.duome
+[League of Legends Quiz](https://play.google.com/store/apps/details?id=com.lolquiz)
+* React-Native
+* Typescript
+
+[DuoMe](https://play.google.com/store/apps/details?id=com.duome)
+* Kotlin
+* Spring
+* Mysql
+
 
 ### ⚔ Skills
 Backend
