@@ -8,19 +8,27 @@
 League of Legends Quiz(ReactNative, Typescript) - https://play.google.com/store/apps/details?id=com.lolquiz <br/>
 DuoMe(Kotlin, Spring) - https://play.google.com/store/apps/details?id=com.duome
 
+### Skills
+Backend
+* Java, Spring boot
+* Hibernate, Mybatis
+* Mysql, Mssql
+* Tomcat
+* Docker
+
+Fronend
+* React
+* React-Native
+* Typescript, Redux(Redux-toolkit)
+* Kotlin
+* Jetpack-compose
+
+Web3
+* Solidity
+* Truffle
+* Web3.js
+* Caver-js
+
 ### Contact
 <a href="mailto:epguygithub@gmail.com"><img src="https://img.shields.io/badge/-epguygithub@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<!--
-**EPguy/EPguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
