@@ -18,7 +18,7 @@ Backend
 * Tomcat
 * Docker
 
-Fronend
+Frontend
 * React
 * React-Native
 * Typescript, Redux(Redux-toolkit)
