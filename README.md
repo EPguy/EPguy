@@ -15,7 +15,7 @@ Backend
 * NodeJS, Express, Nestjs
 * Hibernate, Mongoose, Mybatis, iBATIS
 * Mysql, Mssql, MongoDB
-* Tomcat
+* Tomcat, Nginx
 * Docker
 
 Frontend
