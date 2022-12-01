@@ -6,7 +6,6 @@
 
 ### 🚩 My Apps
 [League of Legends Quiz](https://play.google.com/store/apps/details?id=com.lolquiz)
-
 [DuoMe](https://play.google.com/store/apps/details?id=com.duome)
 
 
@@ -14,7 +13,7 @@
 Backend
 * Java, Spring boot
 * NodeJS
-* Hibernate, Mybatis
+* Hibernate, Mongoose, Mybatis, iBATIS
 * Mysql, Mssql, MongoDB
 * Tomcat
 * Docker
