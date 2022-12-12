@@ -27,15 +27,15 @@ Frontend
 
 Web3
 * Solidity
-* Truffle
+* Truffle, Hardhat
 * Web3.js
 * Caver-js
 
-### 📈 Analytics
+### Analytics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epguy&langs_count=5&theme=tokyonight)](https://github.com/EPguy)
 
 
-### 📞 Contact
+### Contact
 <a href="mailto:epguygithub@gmail.com"><img src="https://img.shields.io/badge/-epguygithub@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
