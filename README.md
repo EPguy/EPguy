@@ -31,6 +31,12 @@ Web3
 * Web3.js
 * Caver-js
 
-### Contact
+### 📈 Analytics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epguy&langs_count=5&theme=tokyonight)](https://github.com/EPguy)
+
+
+### 📞 Contact
 <a href="mailto:epguygithub@gmail.com"><img src="https://img.shields.io/badge/-epguygithub@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+
 
