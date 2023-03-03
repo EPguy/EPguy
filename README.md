@@ -12,7 +12,7 @@
 ### ⚔ Skills
 Backend
 * Java, Spring boot
-* NodeJS, Express, Nestjs
+* Nestjs
 * Hibernate, Mongoose, Mybatis, iBATIS
 * Mysql, Mssql, MongoDB
 * Tomcat, Nginx
