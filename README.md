@@ -22,7 +22,8 @@ Frontend
 * React
 * React-Native
 * Typescript
-* Redux Toolkit, React Query, Zustand
+* Redux Toolkit, React Query
+* Zustand
 * Kotlin
 * Jetpack-compose
 
