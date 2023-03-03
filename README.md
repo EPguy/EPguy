@@ -19,9 +19,7 @@ Backend
 * Docker
 
 Frontend
-* React
-* React-Native
-* Typescript
+* React, React-Native
 * Redux Toolkit, React Query
 * Zustand
 * Kotlin
