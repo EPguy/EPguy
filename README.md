@@ -20,7 +20,7 @@ Backend
 
 Frontend
 * React, React-Native
-* Redux Toolkit, React Query
+* Redux Toolkit
 * Zustand
 * Kotlin
 * Jetpack-compose
