@@ -19,6 +19,7 @@ Backend
 
 Frontend
 * React, React-Native
+* NextJS
 * Redux Toolkit
 * Zustand
 * Kotlin
