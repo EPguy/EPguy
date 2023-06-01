@@ -12,7 +12,8 @@
 ### ⚔ Skills
 Backend
 * Java, Spring boot
-* Hibernate, Mybatis, iBATIS
+* Mybatis, iBATIS
+* JPA
 * Mysql, Mssql
 * Tomcat, Nginx
 * Docker
