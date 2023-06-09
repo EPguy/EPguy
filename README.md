@@ -27,6 +27,10 @@ Frontend
 * Kotlin
 * Jetpack-compose
 
+CI/CD
+* Github Actions
+* AWS CodeDeploy
+
 Web3
 * Solidity
 * Truffle, Hardhat
