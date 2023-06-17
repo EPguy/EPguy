@@ -8,7 +8,6 @@
 [League of Legends Quiz](https://play.google.com/store/apps/details?id=com.lolquiz)\
 [DuoMe](https://play.google.com/store/apps/details?id=com.duome)
 
-
 ### ⚔ Skills
 Backend
 * Java, Spring boot
@@ -17,7 +16,7 @@ Backend
 * JPA
 * Mysql, Mssql
 * Tomcat, Nginx
-* Docker
+
 
 Frontend
 * React, React-Native
@@ -30,6 +29,7 @@ Frontend
 CI/CD
 * Github Actions
 * AWS CodeDeploy
+* Docker
 
 Web3
 * Solidity
