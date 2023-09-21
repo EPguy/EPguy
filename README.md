@@ -8,17 +8,6 @@
 [League of Legends Quiz](https://play.google.com/store/apps/details?id=com.lolquiz)\
 [DuoMe](https://play.google.com/store/apps/details?id=com.duome)
 
-
-### 🦾 Languages
-Job
-* Java
-* JS, TS
-
-Hobby
-* Dart
-* Go
-* Solidity
-  
 ### ⚔ Skills
 Backend
 * Spring boot
