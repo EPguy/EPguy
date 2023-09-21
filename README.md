@@ -10,11 +10,11 @@
 
 
 ### 🦾 Languages
-For job
+Job
 * Java
 * JS, TS
 
-For hobby
+Hobby
 * Dart
 * Go
 * Solidity
