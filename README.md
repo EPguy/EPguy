@@ -38,6 +38,7 @@ Frontend
 * Jetpack-compose
 
 CI/CD
+* Jenkins
 * Github Actions
 * AWS CodeDeploy
 * Docker
