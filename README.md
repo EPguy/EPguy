@@ -10,27 +10,27 @@
 
 ### ⚔ Skills
 Backend
-* Spring boot
+* Spring boot ⭐️
 * NestJS
-* Mybatis, iBATIS
+* Mybatis, iBATIS ⭐️
 * JPA
-* Mysql, Mssql
-* Tomcat, Nginx
+* Mysql, Mssql ⭐️
+* Tomcat, Nginx ⭐️
 
 
 Frontend
-* React, React-Native
+* React, React-Native ⭐️
 * NextJS
-* Redux Toolkit
+* Redux Toolkit ⭐️
 * Zustand
-* Kotlin
-* Jetpack-compose
+* Kotlin ⭐️
+* Jetpack-compose ⭐️
 
 CI/CD
-* Jenkins
-* Github Actions
-* AWS CodeDeploy
-* Docker
+* Jenkins ⭐️
+* Github Actions ⭐️
+* AWS CodeDeploy ⭐️
+* Docker ⭐️
 
 Web3
 * Solidity
