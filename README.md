@@ -5,9 +5,9 @@
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white"> -->
 
 ### 🚩 My Apps
+[최애.AI](https://play.google.com/store/apps/details?id=com.myfavorite.ai&hl=ko)
 [League of Legends Quiz](https://play.google.com/store/apps/details?id=com.lolquiz)\
 [DuoMe](https://play.google.com/store/apps/details?id=com.duome)\
-[최애.AI](https://play.google.com/store/apps/details?id=com.myfavorite.ai&hl=ko)
 
 ### ⚔ Skills
 Backend
