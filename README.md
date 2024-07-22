@@ -7,6 +7,7 @@
 ### 🚩 My Apps
 [League of Legends Quiz](https://play.google.com/store/apps/details?id=com.lolquiz)\
 [DuoMe](https://play.google.com/store/apps/details?id=com.duome)
+[최애.AI](https://play.google.com/store/apps/details?id=com.myfavorite.ai&hl=ko)
 
 ### ⚔ Skills
 Backend
